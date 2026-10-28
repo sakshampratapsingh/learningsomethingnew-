@@ -1,2 +1,3 @@
 # learningsomethingnew-
-This is my repository in which i want to keep my achivement and the code i write and get up skill day by day 
+hey this  is saksham pratap singh , btech cse ai ml student , working on python and gaining basics and advance skill in python
+just code gain knowledge develop logic building andf get upskilled daily
